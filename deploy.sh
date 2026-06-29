@@ -8,6 +8,6 @@ cd dist
 git init 
 git add -A
 git commit -m 'deploy'
-# 部署到 https://github.com/SaplingOuO/AnimeRecord.git 分支為 gh-pages
-git push -f https://github.com/SaplingOuO/AnimeRecord-GSAP.git master:gh-pages
+# 部署到 https://github.com/SaplingOuO/animerecord-gsap.git 分支為 gh-pages
+git push -f https://github.com/SaplingOuO/animerecord-gsap.git master:gh-pages
 cd -

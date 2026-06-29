@@ -5,5 +5,5 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
-  base: process.env.NODE_ENV === 'production' ? '/AnimeRecord-GSAP/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/animerecord-gsap/' : '/',
 })
